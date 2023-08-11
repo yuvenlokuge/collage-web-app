@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(aquamarine,blueviolet);
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+}
+ 
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 blueviolet;
+}
+
+.column
+{
+    display: inline;
+    padding: 10px;
+}
+
+img:hover
+{
+    border-radius: 100px;
+}
